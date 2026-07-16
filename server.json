@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/ipma-pt",
+  "title": "Ipma Pt",
+  "description": "IPMA Portugal MCP — weather, UV, sea state, and earthquakes from the",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/ipma-pt",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-ipma-pt",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/ipma-pt/mcp"
+    }
+  ]
+}
