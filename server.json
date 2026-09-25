@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/ipma-pt",
   "title": "Ipma Pt",
   "description": "IPMA Portugal MCP — weather, UV, sea state, and earthquakes from the",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/ipma-pt",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-ipma-pt",
