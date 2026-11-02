@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ipma-pt",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "IPMA Portugal MCP — weather, UV, sea state, and earthquakes from the Instituto Português do Mar e da Atmosfera (api.ipma.pt/open-data, keyless).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "ipma-pt",
     "gatewaySlug": "ipma-pt",
-    "sourceHash": "v1-5939b0a6ef0cfcdf4770d8b2044544f3b19268079ab5d9b583ff732a7efbb202",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-83483854472906a48136023f63f4f11d7b9325056dc2f87c8a9fb45fe2a34119",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
